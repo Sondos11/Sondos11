@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning about Web Dev .
 
--🎓   I’m currently studying at Information Technology Institute, Open source software track .
+- 🎓   I’m currently studying at Information Technology Institute, Open source software track .
 
--💼   back and front-end web developer.
+- 💼   back and front-end web developer.
 
--🤔   Exploring new technologies and developing software solutions and quick hacks .
+- 🤔   Exploring new technologies and developing software solutions and quick hacks .
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sondos11](https://github.com/Sondos11)
 
