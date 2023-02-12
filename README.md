@@ -2,7 +2,6 @@
 <h3 align="left">Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
-<p align="left"> <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px" /> </p>
 
 - 🌱 I’m currently learning about Web Dev
 
